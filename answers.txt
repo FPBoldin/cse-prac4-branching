@@ -1,0 +1,15 @@
+1. master bower index landing landing-ru package answers
+2. when I used the command git branch --merge the output was:
+					*answers
+					 master
+3. 8
+4. Seems to me that these belong to package but dont belong to master
+
+	 a0bb17f added 4
+	 68db036 Added 3
+	 * cab8d80 (origin/package) Removed lock
+	 | * 6645414 (origin/bower) Added bower
+	 |/  
+	 * 8bfb714 Added locked package
+	 * daa9e63 Added package
+ 
